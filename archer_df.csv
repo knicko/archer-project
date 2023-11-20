@@ -1,0 +1,294 @@
+,app,price,id,vendor_list
+0,Archer Control Standards,Free,420245,"Archer Technologies, LLC"
+1,Shared Assessments SIG Template Questionnaire,Unknown,421581,Shared Assessments
+2,Archer ZIP Management,Unknown,421606,"Archer Technologies, LLC"
+3,Archer ESG Score Connect,Unknown,421617,"Archer Technologies, LLC"
+4,Archer NIST-Aligned AI Risk Management Framework,Unknown,421623,"Archer Technologies, LLC"
+5,RiskRecon Own Enterprise Monitoring,Unknown,420322,RiskRecon by Mastercard
+6,RiskRecon Third Party Security Risk Monitoring,Unknown,420326,RiskRecon by Mastercard
+7,CastleHill Software Estrelica.Core .NET Integration Library,Free,420352,CastleHill Software
+8,Compliance.ai Service Connector,Free,420667,Compliance.ai
+9,Microsoft 365 OneDrive and SharePoint,Free,420722,"Archer Technologies, LLC"
+10,Archer Policy Library,Free,421016,"Archer Technologies, LLC"
+11,ISO/IEC 27001 Standard Authoritative Source,Unknown,421168,"Archer Technologies, LLC"
+12,ISO/IEC 27002 Standard Authoritative Source,Unknown,421170,"Archer Technologies, LLC"
+13,Wolters Kluwer Regulatory Data Feed,Unknown,421563,"Archer Technologies, LLC"
+14,Archer Individual Accountability Management,Unknown,421607,"Archer Technologies, LLC"
+15,NIST AI Risk Management Framework Authoritative Source,Free,421614,"Archer Technologies, LLC"
+16,Archer Australian Incident Management,Free,421616,"Archer Technologies, LLC"
+17,PCI DSS 4.0 Authoritative Source,Free,421625,"Archer Technologies, LLC"
+18,Archer Enhanced User Experience,Free,421626,"Archer Technologies, LLC"
+19,Archer Questionnaire Assistant,Free,422963,"Archer Technologies, LLC"
+20,Archer Third Party Pandemic Preparedness Assessment,Free,420290,"Archer Technologies, LLC"
+21,Archer Conflict of Interest Management,Unknown,420304,"Archer Technologies, LLC"
+22,CMMC Framework Authoritative Source,Free,420308,"Archer Technologies, LLC"
+23,CMMC Assessment Objective and Controls,Free,420310,"Archer Technologies, LLC"
+24,Black Kite Vendor Cyber Risk,Free,420312,Black Kite
+25,AWS IAM Access Analyzer,Unknown,420314,Amazon
+26,BitSight Security Ratings Integration,Unknown,420316,BitSight
+27,AWS Security Hub,Unknown,420318,Amazon
+28,Konexus,Free,420320,Konexus
+29,RiskRecon Own Enterprise Monitoring Free Limited,Free,420324,RiskRecon by Mastercard
+30,RiskRecon Third Party Security Risk Monitoring Free Limited,Free,420328,RiskRecon by Mastercard
+31,Crowe Pandemic Response,Unknown,420330,Crowe LLP
+32,Tutela Solutions / Archer Scripts Group Management,Unknown,420332,"Tutela Solutions, Archer Scripts"
+33,Tutela Solutions Records Retention,Unknown,420334,Tutela Solutions
+34,Tutela Solutions Re*Porter,Free,420336,Tutela Solutions
+35,Tutela Solutions eDiscovery Management,Unknown,420338,Tutela Solutions
+36,HCL Regulatory Interactions Management,Unknown,420340,HCL
+37,HCL IRAM2-Aligned Risk Assessment,Unknown,420342,HCL
+38,HCL Tax Risk Management,Unknown,420344,HCL
+39,Templar Shield Anti-Money Laundering (AML) Rule Management,Unknown,420355,Templar Shield
+40,NTT ISMS Control Assessment,Unknown,420358,NTT Data
+41,NTT ISMS Risk Assessment,Unknown,420362,NTT Data
+42,NTT Platform Monitoring and Operations,Unknown,420364,NTT Data
+43,Archer API Testing,Unknown,420366,"Archer Technologies, LLC"
+44,Archer Authoritative Source Data Feed,Free,420368,"Archer Technologies, LLC"
+45,Archer Data Feed Initiator,Free,420371,"Archer Technologies, LLC"
+46,Archer Data Feed Monitor,Free,420373,"Archer Technologies, LLC"
+47,Risk Based Security VulnDB,Free,420420,Risk Based Security
+48,RiskLens Integration,Free,420422,RiskLens
+49,erwin EDGE Platform,Free,420425,erwin
+50,Archer Multi-Record Publisher,Free,420435,"Archer Technologies, LLC"
+51,Archer Scripts Data Driven Events Analysis,Unknown,420437,Archer Scripts
+52,Archer Scripts User Status Indicator and Tooltip,Unknown,420439,Archer Scripts
+53,Archer User Account Management,Free,420441,"Archer Technologies, LLC"
+54,Archer User Profile and Contact Synchronization,Free,420443,"Archer Technologies, LLC"
+55,Bowmen Group Multicurrency,Unknown,420445,Bowmen Group
+56,Archer Complaints Tracking,Unknown,420447,"Archer Technologies, LLC"
+57,NIST CSF Guidelines Authoritative Source,Free,420449,"Archer Technologies, LLC"
+58,NIST Privacy Framework Authoritative Source,Free,420451,"Archer Technologies, LLC"
+59,NIST FIPS 140-3 Authoritative Source,Free,420455,"Archer Technologies, LLC"
+60,NIST SP 800-30 Rev 1 Authoritative Source,Free,420457,"Archer Technologies, LLC"
+61,NIST SP 800-37 Rev 2 Authoritative Source,Free,420459,"Archer Technologies, LLC"
+62,NIST SP 800-39 Authoritative Source,Free,420461,"Archer Technologies, LLC"
+63,NIST SP 800-82 Rev 2 Authoritative Source,Free,420465,"Archer Technologies, LLC"
+64,NIST SP 800-171 Rev 2 Authoritative Source,Free,420467,"Archer Technologies, LLC"
+65,NIST SP 800-172 Authoritative Source,Free,420469,"Archer Technologies, LLC"
+66,Archer Contract Clause Management,Unknown,420471,"Archer Technologies, LLC"
+67,Archer Discussion Forum,Unknown,420473,"Archer Technologies, LLC"
+68,Archer Documentation Request Tracking,Unknown,420475,"Archer Technologies, LLC"
+69,Archer Exam Management,Unknown,420477,"Archer Technologies, LLC"
+70,Archer Gift Registration,Unknown,420479,"Archer Technologies, LLC"
+71,Archer IIC-Aligned IoT Security Maturity Assessment,Unknown,420481,"Archer Technologies, LLC"
+72,Archer IoT Project Readiness,Unknown,420483,"Archer Technologies, LLC"
+73,Archer Model Risk Management,Unknown,420485,"Archer Technologies, LLC"
+74,Archer Product Security Development Assessment,Unknown,420487,"Archer Technologies, LLC"
+75,Archer Project Management,Unknown,420489,"Archer Technologies, LLC"
+76,Archer Request & Response Tracker,Unknown,420491,"Archer Technologies, LLC"
+77,Archer Scripts Timesheet,Unknown,420493,"Archer Technologies, LLC"
+78,Archer Speak Up,Unknown,420495,"Archer Technologies, LLC"
+79,Archer Strategic Planning,Unknown,420497,"Archer Technologies, LLC"
+80,Archer Strategic Risk Management,Unknown,420499,"Archer Technologies, LLC"
+81,Archer Support Requests,Unknown,420501,"Archer Technologies, LLC"
+82,Aujas Duplicate Findings Prevention,Free,420503,Aujas
+83,Evalto Inactive User Reporting,Unknown,420506,Evalto
+84,1touch.io DLM Pro Integration,Free,420508,1touch.io
+85,Karta NERC Compliance Management,Unknown,420511,KARTRA
+86,RSA Identity Governance & Lifecycle User Provisioning Integration,Free,420518,RSA
+87,ScaleOut StateServer Connector Integration,Free,420521,ScaleOut Software
+88,Security Compass SD Elements Integration,Free,420523,Security Compass
+89,SecurityScorecard Integration,Free,420537,SecurityScorecard
+90,Securonix Snypr Integration,Free,420539,Securonix
+91,SirionLabs CLM Integration,Free,420542,SirionLabs
+92,SOFTwarfare KillerAppz Integration,Free,420544,SOFTwarfare
+93,Splunk Phantom Integration,Free,420551,Splunk
+94,Swimlane Integration,Free,420559,Swimlane
+95,Symantec Control Compliance Suite Integration,Free,420569,Symantec
+96,Tenable.sc Asset Discovery Integration,Free,420573,Tenable
+97,Tenable.sc Vulnerability Management Integration,Free,420577,Tenable
+98,Australian Cloud Security Controls Matrix Authoritative Source,Free,420584,"Archer Technologies, LLC"
+99,Thomson Reuters Regulatory Intelligence,Unknown,420601,Thomson Reuters
+100,Allied Media Digital Testing and Controls Automation,Free,420604,Allied Media
+101,Allied Media Michelle: AI Digital Agent,Free,420606,Allied Media
+102,ThreatConnect Integration,Free,420607,ThreatConnect
+103,Apparity EUCA Risk Discovery and Analysis,Unknown,420610,Apparity
+104,ThreatQuotient ThreatQ Integration,Free,420611,ThreatQuotient
+105,Auditmation™ Integration,Unknown,420614,Auditmation
+106,ThreatWatch Integration,Free,420615,ThreatWatch
+107,Australian AESCSF Authoritative Source,Free,420625,"Archer Technologies, LLC"
+108,UCF Common Controls Hub,Unknown,420628,"Archer Technologies, LLC"
+109,U.S. DHS Content Data Feed,Free,420630,"Archer Technologies, LLC"
+110,Australian Government ISM Authoritative Source,Free,420632,"Archer Technologies, LLC"
+111,U.S. HHS Content Data Feed,Free,420636,"Archer Technologies, LLC"
+112,Australian Government PSPF Authoritative Source,Free,420638,"Archer Technologies, LLC"
+113,U.S. Department of the Treasury Specially Designated National and Blocked Persons List,Unknown,420641,"Archer Technologies, LLC"
+114,Venminder Third Party Risk Management,Free,420643,Venminder
+115,Veracode Platform,Unknown,420645,Veracode
+116,Australian Privacy Act Authoritative Source,Free,420646,"Archer Technologies, LLC"
+117,Australian Prudential Standard CPS 234 and Prudential Practice Guide CPG 234 Authoritative Source,Free,420648,"Archer Technologies, LLC"
+118,CMS Content Data Feed,Free,420653,"Archer Technologies, LLC"
+119,Axonius Cybersecurity Asset Management,Free,420655,Axonius
+120,BigID Data Mapper,Unknown,420657,BigID
+121,Bloomberg Law,Free,420659,Bloomberg
+122,Caveris ICAS Integration,Free,420661,Caveris
+123,CFR Data Feed,Free,420663,"Archer Technologies, LLC"
+124,Cognitive View,Free,420665,Cognitive View
+125,CyberSponse CyOPs,Free,420682,CyberSponse
+126,Cymulate Breach & Attack Simulation,Unknown,420688,Cymulate
+127,Cysiv Command,Free,420690,Cysiv
+128,Demisto Enterprise Integration,Free,420693,Demisto
+129,"Digital Defense, Inc. Frontline Vulnerability Manager",Free,420695,Digital Defense
+130,Emergynt Instinct Engine,Free,420697,Emergynt
+131,Everbridge Integration,Unknown,420699,Everbridge
+132,Federal Deposit Insurance Corporation (FDIC) Data Feeds Content,Free,420702,"Archer Technologies, LLC"
+133,Federal Trade Commission (FTC) Data Feed Content,Free,420704,"Archer Technologies, LLC"
+134,Financial Accounting Standards Board (FASB) Data Feeds Content,Free,420706,"Archer Technologies, LLC"
+135,Global-Regulation International Law Search,Free,420709,Global-Regulation
+136,GovTrack Data Feed Content,Free,420711,"Archer Technologies, LLC"
+137,Gurucul Integration,Unknown,420713,Gurucul
+138,LogicHub Integration,Free,420715,LogicHub
+139,Mendix Integration,Free,420718,Mendix
+140,Office of the Comptroller of the Currency (OCC) Data Feed Content,Free,420725,"Archer Technologies, LLC"
+141,Panaseer Platform Integration,Free,420727,Panaseer
+142,Panorays Integration,Free,420729,Panorays
+143,Perceptive Control Solutions - Audit Prodigy,Free,420732,Audit Prodigy
+144,RapidRatings Portfolio Health Integration,Free,420738,RapidRatings
+145,Recorded Future Third Party Risk,Free,420740,Recorded Future
+146,Recorded Future Vulnerability Enrichment Feed Integration,Free,420742,Recorded Future
+147,Redis Integration,Free,420745,Redis
+148,Regology Regulatory Change Management,Free,420747,Regology
+149,Reserve Bank of India (RBI) Data Feeds Content Integration,Free,420749,"Archer Technologies, LLC"
+150,Axelos IT Infrastructure Library Authoritative Source,Free,420754,"Archer Technologies, LLC"
+151,BACEN 2025 Authoritative Source,Free,420759,"Archer Technologies, LLC"
+152,Bank Secrecy Act Authoritative Source,Free,420763,"Archer Technologies, LLC"
+153,Baseline Security Recommendations for IoT Authoritative Source,Free,420767,"Archer Technologies, LLC"
+154,BIS Basel II Authoritative Source,Free,420780,"Archer Technologies, LLC"
+155,BIS Basel Core Principles for Effective Banking Supervision Authoritative Source,Free,420783,"Archer Technologies, LLC"
+156,BIS Basel Principles for Operational Resilience Authoritative Source,Free,420785,"Archer Technologies, LLC"
+157,U.S. White House 25 Point Implementation Plan to Reform Federal IT Management Authoritative Source,Free,420811,"Archer Technologies, LLC"
+158,Brazil LGPD Authoritative Source,Free,420814,"Archer Technologies, LLC"
+159,California Consumer Privacy Act Regulation Authoritative Source,Free,420818,"Archer Technologies, LLC"
+160,Canadian Anti-Spam Legislation (CASL) Authoritative Source,Free,420822,"Archer Technologies, LLC"
+161,U.S. State Data Security Laws for Companies and Insurers Authoritative Source,Free,420824,"Archer Technologies, LLC"
+162,Canadian OSFI Authoritative Source,Free,420825,"Archer Technologies, LLC"
+163,CIS - Critical Security Controls Authoritative Source,Free,420828,"Archer Technologies, LLC"
+164,U.S. State Data Security Laws for Government Agencies Authoritative Source,Free,420829,"Archer Technologies, LLC"
+165,U.S. State Breach Notification Laws Authoritative Source,Free,420838,"Archer Technologies, LLC"
+166,U.S. SEC Investment Company Act Authoritative Source,Free,420840,"Archer Technologies, LLC"
+167,U.S. SEC Investment Advisers Act Authoritative Source,Free,420842,"Archer Technologies, LLC"
+168,U.S. Sarbanes-Oxley Master Controls,Free,420844,"Archer Technologies, LLC"
+169,U.S. Sarbanes-Oxley Act Authoritative Source ,Free,420846,"Archer Technologies, LLC"
+170,U.S. OMB A-130 Appendix III Authoritative Source,Free,420848,"Archer Technologies, LLC"
+171,U.S. OMB A-130 Appendix I Authoritative Source,Free,420850,"Archer Technologies, LLC"
+172,U.S. ITAR Authoritative Source  ,Free,420852,"Archer Technologies, LLC"
+173,U.S. HiTech Act Authoritative Source ,Free,420854,"Archer Technologies, LLC"
+174,U.S. HHS/CDC Business Pandemic Influenza Planning Checklist BC/DR Questionnaire,Free,420856,"Archer Technologies, LLC"
+175,U.S. HHS/CDC Business Pandemic Influenza Planning Checklist Questionnaire,Free,420858,"Archer Technologies, LLC"
+176,U.S. GLBA Authoritative Source,Free,420860,"Archer Technologies, LLC"
+177,U.S. GLBA Full Text Authoritative Source,Free,420862,"Archer Technologies, LLC"
+178,U.S. G.A.O. FISCAM Authoritative Source,Free,420864,"Archer Technologies, LLC"
+179,U.S. FCPA Authoritative Source,Free,420866,"Archer Technologies, LLC"
+180,U.S. FATCA Authoritative Source,Free,420868,"Archer Technologies, LLC"
+181,U.S. FISMA Act Authoritative Source,Free,420870,"Archer Technologies, LLC"
+182,U.S. HHS Cybersecurity Practices for Medium and Large Health Care Organizations Authoritative Source,Free,420872,"Archer Technologies, LLC"
+183,U.S. HHS Cybersecurity Practices for Small Health Care Organizations Authoritative Source,Free,420874,"Archer Technologies, LLC"
+184,U.S. Department of Education FERPA Authoritative Source ,Free,420880,"Archer Technologies, LLC"
+185,U.S. Department of Defense Authoritative Source,Free,420882,"Archer Technologies, LLC"
+186,U.K. NIS Regulations Authoritative Source,Free,420884,"Archer Technologies, LLC"
+187,U.K. NCSC Cyber Assessment Framework Authoritative Source,Free,420887,"Archer Technologies, LLC"
+188,U.K. Data Protection Act Authoritative Source,Free,420891,"Archer Technologies, LLC"
+189,U.K. Bribery Act Authoritative Source,Free,420893,"Archer Technologies, LLC"
+190,U.S. State of Nevada Gaming Control Board MICS Authoritative Source  ,Free,420895,"Archer Technologies, LLC"
+191,Solvency II Authoritative Source,Free,420897,"Archer Technologies, LLC"
+192,Singapore Cybersecurity Act Authoritative Source,Free,420899,"Archer Technologies, LLC"
+193,Secure Controls Framework Authoritative Source,Free,420901,"Archer Technologies, LLC"
+194,Reserve Bank of India Authoritative Source  ,Free,420903,"Archer Technologies, LLC"
+195,U.S. State Privacy Laws Authoritative Source,Free,420904,"Archer Technologies, LLC"
+196,PRA Outsourcing and Third Party Risk Management SS2/21 Authoritative Source,Free,420906,"Archer Technologies, LLC"
+197,CMS - Prescription Drug Manual 100-18 Authoritative Source,Free,420917,"Archer Technologies, LLC"
+198,CMS - Managed Care Manual 100-16 Authoritative Source,Free,420919,"Archer Technologies, LLC"
+199,CMS - Acceptable Risk Safeguards 100-25 Authoritative Source,Free,420923,"Archer Technologies, LLC"
+200,CMS - Electronic Health Record Meaningful Use Authoritative Source,Free,420926,"Archer Technologies, LLC"
+201,Chemical Facility Anti-Terrorism Standards Authoritative Source,Free,420928,"Archer Technologies, LLC"
+202,CISA Cyber Essentials Authoritative Source,Free,420930,"Archer Technologies, LLC"
+203,Clinger-Cohen Act Authoritative Source,Free,420932,"Archer Technologies, LLC"
+204,Cloud Security Alliance Cloud Controls Matrix Authoritative Source,Free,420934,"Archer Technologies, LLC"
+205,CSA CCM Consensus Assessments Initiative Questionnaire,Free,420937,"Archer Technologies, LLC"
+206,Tableau Web Data Connector,Free,420940,"Archer Technologies, LLC"
+207,PRA ICAAP Authoritative Source ,Free,420958,"Archer Technologies, LLC"
+208,PIPEDA Authoritative Source ,Free,420961,"Archer Technologies, LLC"
+209,OSHA Guidance on Mitigating and Preventing the Spread of COVID-19 in the Workplace Authoritative Source,Free,420973,"Archer Technologies, LLC"
+210,CNSS Instruction No. 1253 Authoritative Source,Free,420976,"Archer Technologies, LLC"
+211,NERC CIP Authoritative Source,Free,420978,"Archer Technologies, LLC"
+212,CNBV Chapter X Authoritative Source,Free,420981,"Archer Technologies, LLC"
+213,Criminal Justice Information Services Security Policy Authoritative Source,Free,420983,"Archer Technologies, LLC"
+214,NERC Standards Authoritative Source,Free,420985,"Archer Technologies, LLC"
+215,CTPAT Minimum Security Criteria for U.S. Exporters Authoritative Source,Free,420987,"Archer Technologies, LLC"
+216,New Zealand Privacy Act Authoritative Source ,Free,420989,"Archer Technologies, LLC"
+217,Governify Turkish Information and Communication Security Guide Authoritative Source,Unknown,420991,Governify GRC Solutions
+218,Governify Turkish Insurance Law Authoritative Source,Unknown,420993,Governify GRC Solutions
+219,CRI Cybersecurity Profile Authoritative Source,Free,420995,"Archer Technologies, LLC"
+220,Governify Turkish KVKK Personal Data Protection Law Authoritative Source,Unknown,420997,Governify GRC Solutions
+221,Cyber Essentials Plus Authoritative Source,Free,420999,"Archer Technologies, LLC"
+222,Governify Turkish Regulation on Banks' Information Systems and Electronic Banking Services Authoritative Source,Unknown,421000,Governify GRC Solutions
+223,New York State Cybersecurity Requirements for Financial Services Companies Authoritative Source,Free,421002,"Archer Technologies, LLC"
+224,Archer Financial Regulatory Assessment Questions,Free,421004,"Archer Technologies, LLC"
+225,Archer Control Assessment Questionnaire,Free,421006,"Archer Technologies, LLC"
+226,Act on Corporate Due Diligence Obligations in Supply Chains Authoritative Source,Free,421008,"Archer Technologies, LLC"
+227,Act on the Protection of Personal Information of Japan Authoritative Source,Free,421010,"Archer Technologies, LLC"
+228,AICPA Privacy Maturity Model Authoritative Source ,Free,421012,"Archer Technologies, LLC"
+229,Archer Fraud Assessment Questions,Free,421014,"Archer Technologies, LLC"
+230,Archer Question Library,Unknown,421022,"Archer Technologies, LLC"
+231,Cyber Security for Defence Suppliers Authoritative Source,Free,421089,"Archer Technologies, LLC"
+232,EBA Guidelines on ICT and Security Risk Management Authoritative Source,Free,421092,"Archer Technologies, LLC"
+233,NISPOM Authoritative Source ,Free,421093,"Archer Technologies, LLC"
+234,F.T.C. Red Flags Rule Authoritative Source,Free,421098,"Archer Technologies, LLC"
+235,European Commission DORA Authoritative Source,Free,421109,"Archer Technologies, LLC"
+236,Fair Credit Reporting Act (FCRA) Authoritative Source Content,Free,421110,"Archer Technologies, LLC"
+237,EBA Guidelines on Outsourcing Arrangements Authoritative Source,Free,421111,"Archer Technologies, LLC"
+238,France Federal Data Protection Act Authoritative Source,Free,421113,"Archer Technologies, LLC"
+239,F.T.C. CAN-SPAM Act of 2003 Authoritative Source Content,Free,421114,"Archer Technologies, LLC"
+240,F.A.A. Aircraft Situation Display to Industry (ASDI) Authoritative Source Content,Free,421115,"Archer Technologies, LLC"
+241,FCA PS21/3 Building Operational Resilience Authoritative Source Content,Free,421117,"Archer Technologies, LLC"
+242,F.D.A. CFR Part 21 Authoritative Source Content,Free,421118,"Archer Technologies, LLC"
+243,FFIEC Booklets Authoritative Source,Free,421119,"Archer Technologies, LLC"
+244,FINRA Rule Sets Authoritative Source,Free,421120,"Archer Technologies, LLC"
+245,European Commission Ethics Guidelines for Trustworthy Artificial Intelligence Authoritative Source,Free,421124,"Archer Technologies, LLC"
+246,European Commission Regulation (EU) 2019/2088 Authoritative Source,Free,421129,"Archer Technologies, LLC"
+247,MAS TRMG Authoritative Source,Free,421130,"Archer Technologies, LLC"
+248,MAS BCM Authoritative Source,Free,421136,"Archer Technologies, LLC"
+249,FFIEC Authentication and Access to Financial Institution Services and Systems Authoritative Source,Free,421139,"Archer Technologies, LLC"
+250,EDPB Recommendations 01/2020 Authoritative Source,Free,421145,"Archer Technologies, LLC"
+251,EIOPA Guidelines on Information and Communication Technology Security and Governance Authoritative Source,Free,421147,"Archer Technologies, LLC"
+252,ETSI EN 303 645 Cyber Security for Consumer IoT Authoritative Source,Free,421150,"Archer Technologies, LLC"
+253,European Union GDPR Authoritative Source,Free,421152,"Archer Technologies, LLC"
+254,MiFID II: Directive 2014/65/EU Authoritative Source,Free,421155,"Archer Technologies, LLC"
+255,European Union Privacy Directives Authoritative Source,Free,421159,"Archer Technologies, LLC"
+256,EU Regulatory Technical Standards for Authentication Authoritative Source,Free,421161,"Archer Technologies, LLC"
+257,Microsoft SDL Authoritative Source,Free,421162,"Archer Technologies, LLC"
+258,Germany Federal Data Protection Act Authoritative Source,Free,421166,"Archer Technologies, LLC"
+259,ISACA COBIT 2019 Authoritative Source,Free,421172,"Archer Technologies, LLC"
+260,ISACA COBIT 5 Authoritative Source,Free,421178,"Archer Technologies, LLC"
+261,G.S.A. FedRAMP Revision 4 Authoritative Source,Free,421229,"Archer Technologies, LLC"
+262,HIPAA Authoritative Source,Free,421237,"Archer Technologies, LLC"
+263,HKMA Supervisory Policy Manual TM G-1 Authoritative Source,Free,421240,"Archer Technologies, LLC"
+264,HKMA E-banking Regulation Authoritative Source,Free,421243,"Archer Technologies, LLC"
+265,HKMA Principles of Artificial Intelligence Authoritative Source,Free,421246,"Archer Technologies, LLC"
+266,IIC IoT SMM Framework Authoritative Source,Free,421250,"Archer Technologies, LLC"
+267,IIA Audit Control Assessment Questionnaire,Free,421253,"Archer Technologies, LLC"
+268,IET Cyber Security and Safety Code of Practice Authoritative Source,Free,421254,"Archer Technologies, LLC"
+269,IIA International Standards Authoritative Source,Free,421256,"Archer Technologies, LLC"
+270,HITRUST CSF Authoritative Source,Free,421286,"Archer Technologies, LLC"
+271,Bowmen Group Organisational Entities,Unknown,421359,Bowmen Group
+272,TUV Rheinland OpenSky User Entitlement Review,Unknown,421361,TUV Rheinland OpenSky
+273,Qualys Vulnerability Management,Free,421608,"Archer Technologies, LLC"
+274,Qualys Asset Discovery,Free,421609,"Archer Technologies, LLC"
+275,NIST National Vulnerability Database (NVD),Free,421610,"Archer Technologies, LLC"
+276,CISA Data Feeds Content,Free,421611,"Archer Technologies, LLC"
+277,Archer Dynamic Workflow Tracker,Free,421612,"Archer Technologies, LLC"
+278,Archer Due Diligence Management,Unknown,421613,"Archer Technologies, LLC"
+279,Archer Advanced Workflow Content Assistant,Free,421615,"Archer Technologies, LLC"
+280,U.S. Interagency Guidance on Third-Party Relationships Authoritative Source,Free,421618,"Archer Technologies, LLC"
+281,LexisNexis Regulatory Compliance,Unknown,421619,"Archer Technologies, LLC"
+282,NIST SP 800-53 Rev 5 Authoritative Source,Free,421620,"Archer Technologies, LLC"
+283,Archer NIST-Aligned Privacy Framework,Unknown,421621,"Archer Technologies, LLC"
+284,Archer NIST-Aligned Cybersecurity Framework,Unknown,421622,"Archer Technologies, LLC"
+285,Archer FFIEC-Aligned Cybersecurity Framework,Unknown,421624,"Archer Technologies, LLC"
+286,CyberArk Central Policy Manager,Free,421627,CyberArk
+287,CyberArk Privileged Session Manager,Free,422828,CyberArk
+288,Australian Victorian PDSF Authoritative Source,Free,423019,"Archer Technologies, LLC"
+289,Saudi Arabian ECC Authoritative Source,Free,423021,"Archer Technologies, LLC"
+290,Supply Wisdom Integration,Unknown,420553,Supply Wisdom
+291,PCI DSS 3.2.1 Authoritative Source,Free,420971,"Archer Technologies, LLC"
+292,NIST FIPS 140-2 Authoritative Source,Free,420453,"Archer Technologies, LLC"
